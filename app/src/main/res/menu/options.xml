@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itemConfirmation"
+        android:title="Simple Confirmation"></item>
+    <item android:id="@+id/itemSimpleList"
+        android:title="Simple List"></item>
+    <item android:id="@+id/itemPassPhrase"
+        android:title="Pass Phrase"></item>
+</menu>
